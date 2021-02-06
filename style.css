@@ -50,9 +50,8 @@ li {
 
 li a {
 	display: block;
-	font-size: 1.6vw;
-	padding: 20px 50px;
-	text-decoration: none;
+	font-size: 1.9vw;
+	padding: 30px 60px;
 }
 
 /*main*/
@@ -231,6 +230,7 @@ p:nth-child(5) {
 	color: white;
 	animation: blinker 1s linear infinite;
 }
+
 @keyframes blinker {
 	50% {
 		opacity: 0;
